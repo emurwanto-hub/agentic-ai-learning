@@ -14,3 +14,13 @@ Today I started learning GitHub through hands-on practice.
 ### Next Step
 
 Continue learning GitHub through practical projects related to Agentic AI.
+## Experiment 01
+
+Today I started learning GitHub through practice.
+
+What I learned:
+- Repository
+- Branch
+- Commit
+- README
+- Learning log
